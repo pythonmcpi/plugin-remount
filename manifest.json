@@ -1,0 +1,8 @@
+{
+    "name": "Plugin Remount",
+    "version": "1.0.0",
+    "description": "Adds a command for remounting (reloading) a plugin.",
+    "author": "pipythonmc",
+    "license": "MIT"
+  }
+  
